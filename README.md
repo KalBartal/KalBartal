@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KalBartal
+- 👋 Hi, I’m @KalBartal, MSc Computer Science with Cyber Security Student @ University of York
 - 👀 I’m interested in Pyton, Computer Science, Cyber Security
 - 🌱 I’m currently studying Computer & Mobile Networks
 - 💞️ I’m looking to collaborate on Python
